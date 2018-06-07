@@ -1,0 +1,15 @@
+{
+  "name": "application-site",
+  "version": "1.0.0",
+  "author": "Renan Marcel Paulino Leite<renannn@outlook.com>",
+  "license": "ISC",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanfactory/Application.git"
+  },
+  "bugs": {
+    "url": "https://github.com/renanfactory/Application.git/issues"
+  },
+  "homepage": "https://github.com/renanfactory/Application#readme"
+}
